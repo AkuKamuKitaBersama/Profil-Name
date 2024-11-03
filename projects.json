@@ -1,0 +1,67 @@
+[
+    {
+        "name": "Assistance Project Manager",
+        "company": "Pt Kinema Syatrans Multimedia (Infinite Learning)",
+        "category": "finance",
+        "date": "September – Oktober 2024",
+        "desc": [
+            "Membantu manajer proyek dalam perencanaan keuangan, penganggaran, dan pengendalian biaya.",
+            "Mendukung pembuatan laporan keuangan dan metrik kinerja untuk melacak kemajuan proyek.",
+            "Mengkoordinasikan komunikasi antara tim keuangan dan pemangku kepentingan proyek untuk memastikan keselarasan tujuan keuangan.",
+            "Mempersiapkan anggaran proyek, perkiraan, dan analisis varians."
+        ],
+        "image": "assistance-project-manager",
+        "links": {
+            "view": "https://linkedin.com/in/akhmad-jundan-453527206",
+            "code": "#"
+        }
+    },
+    {
+        "name": "Finance Accounting Intern",
+        "company": "PT Indofood Sukses Makmur Tbk",
+        "category": "finance",
+        "date": "Maret – Mei 2024",
+        "desc": [
+            "Mencatat transaksi keuangan harian termasuk pendapatan dan pengeluaran, memastikan keakuratan data.",
+            "Mendukung penyusunan laporan keuangan seperti laporan laba rugi, neraca, dan arus kas.",
+            "Melakukan rekonsiliasi akun untuk memastikan konsistensi antara catatan internal dan laporan bank.",
+            "Menganalisis kinerja keuangan dan memberikan wawasan untuk peningkatan finansial.",
+            "Mendukung proses audit internal dengan memverifikasi keakuratan laporan keuangan dan dokumentasi."
+        ],
+        "image": "finance-accounting-intern",
+        "links": {
+            "view": "https://linkedin.com/in/akhmad-jundan-453527206",
+            "code": "#"
+        }
+    },
+    {
+        "name": "Project Analyst",
+        "company": "Summer Consulting Project x Deloitte",
+        "category": "consulting",
+        "date": "2023",
+        "desc": [
+            "Bekerjasama dengan mentor dari Deloitte untuk membantu UMKM Indonesia meningkatkan strategi bisnis, model perencanaan, dan pemecahan masalah.",
+            "Melakukan analisis proyek untuk memahami tantangan bisnis dan memberikan rekomendasi yang sesuai."
+        ],
+        "image": "project-analyst",
+        "links": {
+            "view": "https://linkedin.com/in/akhmad-jundan-453527206",
+            "code": "#"
+        }
+    },
+    {
+        "name": "Content Marketing Strategist",
+        "company": "BCA Wealth Management Program x Pathseeker.id",
+        "category": "marketing",
+        "date": "2023",
+        "desc": [
+            "Berkolaborasi dengan BCA Wealth Management Program untuk mengembangkan strategi pemasaran konten.",
+            "Meningkatkan kesadaran acara dan keterlibatan audiens melalui strategi konten yang efektif."
+        ],
+        "image": "content-marketing-strategist",
+        "links": {
+            "view": "https://linkedin.com/in/akhmad-jundan-453527206",
+            "code": "#"
+        }
+    }
+]
